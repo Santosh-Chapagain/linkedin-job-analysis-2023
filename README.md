@@ -49,7 +49,7 @@ Companies with the highest number of job postings.
 ###  Most Demanded Tech Skills
 These skills appeared most frequently across all job postings.
 
-![Top Skills](Topskills.png)
+![Top Skills](Topskill.png)
 
 ---
 
